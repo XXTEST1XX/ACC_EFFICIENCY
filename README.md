@@ -10,4 +10,4 @@
 
 **<p align="center">(b) Swin</p>**
 
-Fig. R1 Accuracy-efficiency curves obtained by different attention mechanisms on ImageNet-1K. Efficiency is represented by the inference throughput of each method. The inference throughput and accuracy results of all methods are from Table 1 of ELFATT paper.
+Fig. R3-1 Accuracy-efficiency curves obtained by different attention mechanisms on ImageNet-1K. Efficiency is represented by the inference throughput of each method. The inference throughput and accuracy results of all methods are from Table 1 of ELFATT paper.
